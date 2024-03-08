@@ -1,7 +1,6 @@
 # WebWarp
-  <!--Web-to-APK Converter with WebView Integration
 
-Introducing our Python tool designed to seamlessly convert websites into Android applications utilizing WebView functionalities. With this tool, transforming your website into a fully functional APK has never been easier. Harnessing the power of apktool, it enables you to decompile, edit, and compile an existing APK, tailored to your website's specifications.
+<!--WebWarp is a convenient solution to convert your website into an APK file. Effortlessly transform your web content into a mobile application utilizing WebView functionalities.
 
 Key Features:
 
@@ -9,7 +8,7 @@ Website to APK Conversion: Effortlessly convert any website into an APK file, pr
 
 WebView Integration: Seamlessly embed your website within the Android application using WebView, ensuring a native app-like experience for users.
 
-Customization Options: Modify the APK to suit your needs by leveraging apktool's decompilation and editing capabilities. Customize app icons, splash screens, permissions, and more.
+Customization Options: Modify the APK to suit your needs by leveraging apktool's decompilation and editing capabilities. Customize app icons and splash screens
 
 Automated Workflow: Streamline the conversion process with our Python script, automating the steps of decompilation, editing, and compilation for a hassle-free experience.
 
