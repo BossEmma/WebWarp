@@ -29,9 +29,6 @@ WebView Integration: Embed the website's URL within the APK using WebView, enabl
   ![Apktool](https://img.shields.io/badge/apktool-gray.svg?style=for-the-badge&logo=apktool)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Expo](https://img.shields.io/badge/expo-black.svg?style=for-the-badge&logo=expo&logoColor=white)
-  
-## Screenshots:
-  Coming soon..
 
 ## Getting Started:
   Coming soon..
